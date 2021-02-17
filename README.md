@@ -5,10 +5,6 @@ _The last NASA-produced manned vehicle to bring things to space._
 
 A lightweight Go program to upload files to Nexus in the raw repository format.
 
-
-## Table of Contents
-[[_TOC_]]
-
 ## Usage
 Endeavour is a command line tool only, written for unix systems (although it should be compatible with Windows).
 Generally, the command is invoked as:
